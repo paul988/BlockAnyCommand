@@ -1,0 +1,10 @@
+Prefix: '&4[BlockAnyCommand]&f'
+Message: Unknown command. Type "/help" for help.
+PermMessage: '&cYou do not have permission for this command.'
+Update-Check: true
+Notify-Update: true
+Auto-Update: true
+BlockedCommands:
+  global:
+  - command1
+  - command2
